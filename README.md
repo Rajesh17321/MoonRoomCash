@@ -1,4 +1,4 @@
-# Bitcoin Gold
+# MoonRoom Cash
 
 [![Build Status](https://travis-ci.org/BTCGPU/BTCGPU.svg?branch=master)](https://travis-ci.org/BTCGPU/BTCGPU)
 
@@ -20,7 +20,3 @@ This is the staging tree of Bitcoin Gold. If you don’t understand what you are
 
 ## Links
 
-* Website: https://bitcoingold.org
-* Tech Spec: https://github.com/BTCGPU/BTCGPU/wiki/Technical-Spec
-* Forum: https://forum.bitcoingold.org
-* Discord: [invitation](https://discord.gg/HmVUU6S)
