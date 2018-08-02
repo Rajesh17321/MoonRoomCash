@@ -1,6 +1,6 @@
 # MoonRoom Cash
 
-[![Build Status]<!--(https://travis-ci.org/BTCGPU/BTCGPU.svg?branch=master)](https://travis-ci.org/BTCGPU/BTCGPU)-->
+<!--[![Build Status](https://travis-ci.org/BTCGPU/BTCGPU.svg?branch=master)](https://travis-ci.org/BTCGPU/BTCGPU)-->
 
 MoonRoom Cash (codename MNCash) began as a Clone of Bitcoin Gold on Tue, 31 July 2018 14:24:55 GMT
 
